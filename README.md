@@ -42,12 +42,3 @@ I specialize in building robust, highly scalable web systems. My expertise lies 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Nuxt-002E66?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaikalAhnaf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=A1A1AA&icon_color=10B981&title_color=10B981" alt="Haikal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalAhnaf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=A1A1AA&title_color=10B981" alt="Top Languages" width="48%" />
-</p>
