@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Haikal Ahnaf Abqori 👋</h1>
 
-<h3 align="center">Cloud-Native Backend & Full-Stack Engineer</h3>
+<h3 align="center">AWS Certified Cloud Practitioner & Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://haikalahnaf.my.id" target="_blank">
@@ -9,18 +9,29 @@
   <a href="https://linkedin.com/in/haikal-ahnaf-abqori" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.credly.com/badges/5c10bc5b-3c47-4908-a5bc-e7a385fd8a2d/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I specialize in building robust, highly scalable web systems. My expertise lies in architecting **AWS Serverless infrastructure** (CDK, Lambda, DynamoDB) and developing modern, responsive frontends using **Nuxt.js** and **Vue.js**. 
+I specialize in building robust, highly scalable cloud-native systems. My expertise lies in architecting **AWS Serverless infrastructure** (Lambda, API Gateway, DynamoDB) and developing modern, responsive frontends using **Nuxt.js** and **Vue.js**. 
 
-- 🏢 Currently working as a **Web Developer** at Babussalam As-Sunnah.
-- 🎓 Bachelor of ICT from **Asia e University** | IT Diploma from **CEP-CCIT FTUI**.
-- 🌱 Currently exploring and expanding my knowledge in **Terraform, Docker, and GCP** to transition deeper into DevOps and SRE workflows.
-- ⚡ **Fun fact:** When I'm not coding, I'm usually listening to classical symphonies (Tchaikovsky & Rachmaninoff) or getting lost in a fantasy action RPG.
+- ☁️ **Certified:** **AWS Certified Cloud Practitioner** & **AWS re/Start Graduate** (Orbit Future Academy).
+- 🚀 **Recent Work:** Architected a production-grade [Serverless Financial Tracker](https://finance.haikalahnaf.my.id) provisioned entirely via **Terraform (IaC)**, **Docker**, and automated **GitHub Actions CI/CD** pipelines.
+- 🏢 **Experience:** Currently working as a **Web Developer** at Babussalam As-Sunnah, building complex institutional cloud portals.
+- 🎓 **Education:** Bachelor of ICT from **Asia e University** | IT Diploma from **CEP-CCIT FTUI**.
+- ⚡ **Fun fact:** When I'm not coding or provisioning infrastructure, I'm usually listening to classical symphonies (Tchaikovsky & Rachmaninoff) or getting lost in a fantasy action RPG.
+
+---
+
+### 🚀 Featured Project
+
+**[Serverless Financial Tracker](https://finance.haikalahnaf.my.id)**
+A full-stack, cloud-native personal finance application. Provisioned entirely via Terraform (IaC) with strict environment isolation, featuring an automated CI/CD pipeline, AWS Cognito authentication, dynamic single-table DynamoDB design, and cron-scheduled SES reporting.
 
 ---
 
@@ -33,9 +44,11 @@ I specialize in building robust, highly scalable web systems. My expertise lies 
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 **Frontend & Backend**
 <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
